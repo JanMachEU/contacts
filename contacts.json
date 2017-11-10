@@ -1,0 +1,11 @@
+{
+    "contacts": [
+        {
+            "id": "Jan Mach_5a05a75602561",
+            "name": "Jan Mach",
+            "phone": "+420 739 493 445",
+            "email": "contact@janmach.eu",
+            "note": "Omlouvám se za zpoždění. Napsáno za cca 3 hod. Hezké odkazy bych realizoval pomocí .htaccess, bohužel kvůli chybě na hostnigu jsem nemohl otestovat."
+        }
+    ]
+}
